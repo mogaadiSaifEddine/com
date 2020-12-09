@@ -1,0 +1,12 @@
+.PfClass{
+    width: 240px;
+    height: 240px;
+    padding: 10px;
+    border-radius: 60%;
+
+}
+.name{
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #c7bba9;
+}
